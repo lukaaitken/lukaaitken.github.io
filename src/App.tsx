@@ -6,5 +6,5 @@
 import { Button } from "@/components/ui/button"
 
 export const App = () => {
-  return <Button>Hellow World</Button>
+  return <Button>Hello World</Button>
 };
